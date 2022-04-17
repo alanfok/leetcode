@@ -13,10 +13,6 @@ public class main {
         //Problem21 problem21 = new Problem21();
         //ListNode node = problem21.mergerTwoList(list1_1, list2_1);
         //System.out.println(node.val);
-        Problem66 problem66 = new Problem66();
-
-
-        problem66.plusOne(new int[]{9,9});
 
     }
 }
